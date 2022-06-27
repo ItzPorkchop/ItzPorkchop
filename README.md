@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ItzPorkchop
 - 👀 I’m interested in developing games
 - 🌱 I’m currently learning advanced Unity and C#
-- 💞️ I’m looking to collaborate on Unity or Godot projects
-- 📫 How to reach me message me on Discord @isThatJungleBard?#8025!
+- 💞️ I’m looking to collaborate on Unity projects
+- 📫 How to reach me message me on Discord @isThatJungleBard?#8025! or my Telegram is @porkchopmuahaha
 
 <!---
 ItzPorkchop/ItzPorkchop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
